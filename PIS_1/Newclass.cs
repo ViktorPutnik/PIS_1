@@ -9,4 +9,7 @@ namespace PIS_1
     internal class Newclass
     {
     }
+    class DrugaKlasa
+    {
+    }
 }
